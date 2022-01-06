@@ -27,7 +27,6 @@ button.addEventListener('click', function (){
 
 
 let createMsg = function(name, txt, pic){
- console.log("createMsg")
     let div_container = document.createElement("div")
    
     document.body.appendChild(div_container)
